@@ -15,7 +15,8 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 2. **Install Dependencies::**
 
    ```bash
-   npm install
+   npm install @emotion/react@11.11.4 @emotion/styled@11.11.5 @mui/icons-material@5.15.21 bootstrap@5.3.3 next@14.2.4 openai@4.47.1 react-bootstrap@2.10.3 react-dom@18.3.1 react@18.3.1
+
 
 3. **Start the Development Server:**
 
